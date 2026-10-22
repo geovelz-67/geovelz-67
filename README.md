@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hi! Soy Geogan
 
-<!--
-**geovelz-67/geovelz-67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+- Actualmente estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica.
+- Soy mexicano.
+- Actualmente estoy aprendiendo C y GitHub.
+- Mi meta es desarrollar habilidades de programación y crear proyectos de software que puedan resolver problemáticas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis intereses
+
+- Desarrollo de software y programas.
+- Resolución de problemas y diseño de algoritmos.
+- Aprender nuevas técnicas y crear proyectos.
+
+## Tecnologías que quiero aprender
+
+- C
+- GDScript
+- Git y GitHub
+- UML
+- SQL y bases de datos
+
