@@ -21,3 +21,5 @@
 - UML
 - SQL y bases de datos
 
+## Contacto
+gvelz67@gmail.com
